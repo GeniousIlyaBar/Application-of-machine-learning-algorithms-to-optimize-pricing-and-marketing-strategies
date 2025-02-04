@@ -16,4 +16,4 @@ The encoding of categorical features and the transformation of numerical data we
 
 **Notebook:** [Encoding.ipynb](https://github.com/GeniousIlyaBar/Application-of-machine-learning-algorithms-to-optimize-pricing-and-marketing-strategies/blob/main/Encoding.ipynb)
 
-**Result:** encoded_scaled_df.csv
+**Result (sample, orginal file is too heavy):** [encoded_scaled_df.csv](https://github.com/GeniousIlyaBar/Application-of-machine-learning-algorithms-to-optimize-pricing-and-marketing-strategies/blob/main/encoded_scaled_df_sample.csv)
