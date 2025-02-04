@@ -9,11 +9,11 @@ In this notebook, I have executed the essential pre-processing and EDA required 
 
 **Notebook:** [Pre-processing and data analysis.ipynb](https://github.com/GeniousIlyaBar/Application-of-machine-learning-algorithms-to-optimize-pricing-and-marketing-strategies/blob/main/Pre-processing%20and%20data%20analysis.ipynb)
 
-**Result:** preprocessed_df.csv
+**Result:** [preprocessed_df.csv](https://github.com/GeniousIlyaBar/Application-of-machine-learning-algorithms-to-optimize-pricing-and-marketing-strategies/blob/main/preprocessed_df.csv)
 
 ## Encoding
 The encoding of categorical features and the transformation of numerical data were done in this notebook to enhance the model's performance. First, I have used Label Encoding for ordinal categorical features and One-Hot Encoding for those features where there is no natural order. In that way, categorical variables were represented properly to machine learning models. Next, I standardized the numerical features using StandardScaler, scaling the variables to a common scale that usually helps in improving model convergence. In features of a datetime nature, I extracted the year, month, day, hour, minute, second, and week number to help the model get more patterns concerning time. These transformations optimized the dataset for training and enhanced feature interpretability.
 
-**Notebook:** Encoding.ipynb
+**Notebook:** [Encoding.ipynb](https://github.com/GeniousIlyaBar/Application-of-machine-learning-algorithms-to-optimize-pricing-and-marketing-strategies/blob/main/Encoding.ipynb)
 
 **Result:** encoded_scaled_df.csv
